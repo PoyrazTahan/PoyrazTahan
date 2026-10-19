@@ -1,5 +1,5 @@
 <!-- Header banner: generated on the fly by capsule-render, no image hosting needed -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003262,100:FDB515&height=180&section=header&text=Poyraz%20Tahan&fontSize=48&fontColor=ffffff&desc=Physical%20AI%20%C2%B7%203D%20reconstruction%20%C2%B7%20LLM%20data%20pipelines&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003262,100:FDB515&height=180&section=header&text=Poyraz%20Tahan&fontSize=48&fontAlignY=32&fontColor=ffffff&desc=Physical%20AI%20%C2%B7%203D%20reconstruction%20%C2%B7%20LLM%20data%20pipelines&descAlignY=56&descSize=16" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/poyraztahan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/badge/Berkeley%20Haas-MBA%20'28-003262?style=for-the-badge&labelColor=FDB515"/>
   <img src="https://img.shields.io/badge/San%20Francisco-555?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
+
+<!-- Contribution graphs: regenerated daily by .github/workflows/profile-graphs.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg"/>
+  <img src="profile-3d-contrib/profile-gitblue.svg" width="100%"/>
+</picture>
 
 ### 👋 About
 
@@ -29,3 +35,10 @@
 | [Agent-Research](https://github.com/PoyrazTahan/Agent-Research) | Autonomous research loop — agents work a spec + TODO, cite sources, and validate their own output |
 | [builder](https://github.com/PoyrazTahan/builder) | Infrastructure for AI agents that generate landing pages from templates |
 | [zmk-config-corne-v1](https://github.com/PoyrazTahan/zmk-config-corne-v1) | Firmware for my split keyboard ⌨️ |
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg"/>
+  <img src="dist/snake.svg" width="100%"/>
+</picture>
