@@ -21,7 +21,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Remove radar chart and star/fork counts
+      - name: Remove star/fork counts
         run: python3 .github/scripts/trim_3d.py profile-3d-contrib
 
       # Snake eating the contribution grid -> dist/*.svg
