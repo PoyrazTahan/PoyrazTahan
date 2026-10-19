@@ -11,7 +11,7 @@
 <!-- Contribution graphs: regenerated daily by .github/workflows/profile-graphs.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg"/>
-  <img src="profile-3d-contrib/profile-gitblue.svg" width="100%"/>
+  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%"/>
 </picture>
 
 ### 👋 About
